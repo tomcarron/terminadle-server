@@ -1,3 +1,4 @@
 .env
 database/.env
-main
+server/.env
+server/main
